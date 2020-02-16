@@ -1,0 +1,1 @@
+All the below folders must be placed in the www folder if you're using wamp or xampp
