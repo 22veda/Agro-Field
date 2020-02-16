@@ -1,1 +1,3 @@
 All the below folders must be placed in the www folder if you're using wamp or xampp
+Create all the procedures in the MySQL database
+Create required tables and link with the below php files
