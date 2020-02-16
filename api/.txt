@@ -1,1 +1,2 @@
 -----
+All the functions implementations in php
